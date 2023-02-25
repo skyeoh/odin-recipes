@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    width: 500px;
+    padding: 5px;
+    background-color: rgb(200, 150, 50);
+    text-align: center;
+}
+
+ul {
+    width: 500px;
+    border: 8px double black;
+    background-color:rgb(80, 200, 50);
+}
+
+li {
+    padding: 5px 0;
+}
+
+a {
+    color: black;
+    font-size: 18px;
+}
