@@ -60,6 +60,10 @@ li {
     width: 744px;
 }
 
+.back-to-main {
+    margin: 0 0 16px 16px;
+}
+
 .credit {
-    margin-top: 16px;
+    margin: 16px 0 0 16px;
 }
