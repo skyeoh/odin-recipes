@@ -4,12 +4,14 @@
  * https://abhijitrawool.com/restaurant-website-color-palettes/
  */
 
+ /********** Universal styles **********/
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
     width: 800px;
 }
 
+/********** Heading styles **********/
 h1 {
     color: #494449;
     background-color: #ddeac1;
@@ -19,6 +21,7 @@ h1 {
     padding: 8px;
 }
 
+/********** Content styles **********/
 ul {
     background-color: #eeefeb;
     margin: 0;
